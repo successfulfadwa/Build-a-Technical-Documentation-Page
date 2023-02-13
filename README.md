@@ -1,6 +1,6 @@
 # Build-a-Technical-Documentation-Page
 Build a Technical Documentation Page for free code camp
-![alt text](Screen-Estrella.pngl)
+![alt text](Screen-Estrella.png)
 # Technical Documentation Web Page
 
 This project involves creating a technical documentation web page with a main content area (`#main-doc`) and a navigation menu (`#navbar`). The web page should meet the following criteria:
@@ -32,7 +32,7 @@ The `#navbar` element should always be visible on the left side of the screen fo
 
 To see a live preview of the technical documentation web page, visit [this link](https://yourwebpagehosting.com).
 
-<iframe src="https://estrella-cutiepie.me/Build-a-Technical-Documentation-Page/" width="100%" height="500"></iframe>
+
 
 To complete the project, fulfill the user stories and pass all the tests. Feel free to add your personal style to the page. Happy coding!
 
