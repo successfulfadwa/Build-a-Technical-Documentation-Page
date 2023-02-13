@@ -30,7 +30,7 @@ When a user clicks on a `.nav-link` element, the page should navigate to the cor
 
 The `#navbar` element should always be visible on the left side of the screen for regular-sized devices. The page should use at least one media query.## Live Preview
 
-To see a live preview of the technical documentation web page, visit [this link](https://yourwebpagehosting.com).
+To see a live preview of the technical documentation web page, visit [this link](https://estrella-cutiepie.me/Build-a-Technical-Documentation-Page/).
 
 
 
